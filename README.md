@@ -25,6 +25,7 @@ II.	Instruction for use
   The input of NGA to NBA is drawn on JFlat create a NGA1.jft file copy to
 the folder in the project or the input can be outfile.txt text file as 
 the example below:
+
 2 // number of states
 
 q // state name
