@@ -1,0 +1,18 @@
+2
+q
+r
+2
+a
+b
+1
+q
+4
+q b q
+q a r
+r a r
+r b q
+2
+1
+q
+1
+r

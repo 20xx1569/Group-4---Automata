@@ -1,0 +1,21 @@
+﻿3
+q
+r
+p
+2
+a
+b
+1
+q
+6
+q b q
+q a r
+r a r
+r b p
+p a r
+p b q
+2
+1
+q
+1
+r

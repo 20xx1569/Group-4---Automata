@@ -1,0 +1,25 @@
+4
+q
+r
+p
+t
+2
+a
+b
+1
+q
+8
+q b q
+q a r
+r a r
+r b p
+p a r
+p b t
+t a t
+t b p
+2
+2
+q
+t
+1
+r
